@@ -1,0 +1,54 @@
+body {
+    background: #fff url('../media/CHTComingSoon4h.png') 0 0 no-repeat;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    font: 16px/1.5 sans-serif;
+}
+
+main {
+    position: absolute;
+    bottom: 5%;
+    left: 40%;
+    max-width: 450px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+}
+
+a {
+    color: #222;
+}
+
+a:link,
+a:visited {
+    text-decoration: underline;
+}
+
+a:hover,
+a:focus,
+a:active {
+    border-bottom: 2px solid #222;
+}
+
+p:first-of-type {
+    color: #1c727a;
+    margin: 0 auto 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.3rem;
+    max-width: 210px;
+}
+
+.join-livestream {
+    margin: 20px auto 0;
+    width: 320px;
+    font-weight: bold;
+}
